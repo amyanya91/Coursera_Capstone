@@ -1,0 +1,19 @@
+Capstone Project: Battle of the Neighbourhoods
+
+Introduction and Business Problem
+
+Business Question: Where to build new apartment complex in the city of Toronto, Canada?
+
+A property management company (‘City Living Limited’) is looking to build a new apartment complex building in one of the neighbourhoods 
+in Toronto, Canada, but only neighbourhoods that contain ‘Toronto’ in the name (i.e. Downtown Toronto). 
+
+After meeting with key stakeholders and upper management executives, the main requirements 
+for the location of the new building are that it must be near amenities (shops, restaurants, transportation), 
+and be a trendy place. This is especially important, as the property market is highly competitive, 
+especially in a popular city like Toronto. City Living Limited will be spending a significant amount on building this new property, 
+and it’s critical that they find the right location with the highest profitability.
+
+As a Data Analyst, I will be assisting the property management company with locating the best 
+neighbourhood in which to build a new apartment building. 
+Using Foursquare API, I will investigate the neighbourhoods that include the name ‘Toronto’, 
+in order to find out which neighbourhood provides the best investment for this company’s newest building site.  
