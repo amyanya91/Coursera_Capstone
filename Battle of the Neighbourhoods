@@ -50,5 +50,44 @@ I will use Foursquare API to gather venue information regarding Marble Hill, whi
 Toronto data. This will allow me to see which (if any) neighbourhoods in Toronto-named boroughs are the best fit for the 
 company’s new project. 
 
+IV. Results 
+
+A folium map produced with the Toronto-named Boroughs and the top venues showed West Toronto as the closest borough to the 
+pocket of venues.  By creating a dataframe of West Toronto neighbourhoods, I was able to do an API call through Foursquare 
+that revealed the top venues within that region. This showed Dovercourt Village, Dufferin to have the closest vicinity to the 
+top venues, making it a prime neighbourhood location for a potential property development. 
+
+However, after comparing this neighbourhood to the neighbourhod of Marble Hill, I could see that Marble Hill has 18 unique 
+categories of venues, whereas Dovercourt has only 11. Furthermore, upon closer inspection of the dataframes showing each 
+neighbourhoods’ top venues, the categories were significantly dissimilar in most respects, save for around three or four. 
+
+Dovercourt has five categories of venues that Marble Hill doesn’t have: Supermarket, Bakery, Brewery, Music Venue, and a Park. 
+Marble Hill has venues such as Yoga, Supplement Shop, Tennic Stadium, Department Store, Videogame Store, and a wider selection 
+of Restaurants than Dovercourt. Both neighbourhoods have a Pharmacy, Bank, Café/Coffee Shop, Gym/Fitness Centre. However, clearly 
+the differences in venue type and frequency show Dovercourt to be a risky place to invest in a new property development. 
+
+V. Discussion 
+
+As Marble Hill and Dovercourt Village, Dufferin are in two different cities in two different countries, it is important to 
+acknowledge potential cultural differences that could both hinder and help a new apartment complex to be successful. For example, 
+Dovercourt Village was near to a trendy park, whereas Marble Hill didn’t have a nearby park. Perhaps Canadian professionals would 
+prefer an apartment close to nature, such as a park, while Manhattan professionals might prefer fitness centres and yoga facilities? 
+My recommendation to City Living Ltd. would be to conduct market research into cultural and economic differences in the two regions. 
+This would reveal whether the company should look for certain amenities in a Canadian neighbourhood that it might not look for in an 
+American location. 
+
+Although the company had significant success in Marble Hill with a recent development, Toronto is a different city and may require a 
+different perspective on what makes a location desirable. This could certainly imply that building a property in Dovercourt could prove 
+highly successful. But the financial risk is still very high, which is why I recommend further research should be done to fully understand 
+the market and how it differs between these two vibrant cities. 
+
+VI. Conclusion
+
+In summary, this project has analysed datasets from a csv file and from scraping a Wiki page, in order to determine the suitability 
+of a potential location for a new property development. Upon investigation through exploratory analysis with pandas and folium maps, 
+it has been determined that the client (City Living Ltd) should not move forward with a new apartment complex in the Toronto 
+neighbourhood of Dovercourt Village, Dufferin. The client has been advised to seek further market research in order to better decide 
+what action should be taken, if any. 
+
 
  
