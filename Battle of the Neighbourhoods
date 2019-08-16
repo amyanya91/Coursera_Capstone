@@ -4,16 +4,25 @@ Introduction and Business Problem
 
 Business Question: Where to build new apartment complex in the city of Toronto, Canada?
 
-A property management company (‘City Living Limited’) is looking to build a new apartment complex building in one of the neighbourhoods 
-in Toronto, Canada, but only neighbourhoods that contain ‘Toronto’ in the name (i.e. Downtown Toronto). 
+An American property management company (‘City Living Limited’) is looking to build a new 
+apartment complex building in one of the neighbourhoods in Toronto, Canada. 
+The company has been approached by an investor (and shareholder in the company), who wants 
+to invest 40% in a new building project in Toronto. The investor has explained that he wants 
+the new apartment complex to be built in a neighbourhood that lies within a Toronto-named Borough 
+(in other words, in a borough that includes the name ‘Toronto’ – for example, West Toronto, Downtown Toronto, etc.).  
+The company would have to invest the remaining 60% into the new property development.
 
-After meeting with key stakeholders and upper management executives, the main requirements 
-for the location of the new building are that it must be near amenities (shops, restaurants, transportation), 
-and be a trendy place. This is especially important, as the property market is highly competitive, 
-especially in a popular city like Toronto. City Living Limited will be spending a significant amount on building this new property, 
-and it’s critical that they find the right location with the highest profitability.
+After meeting with key stakeholders and upper management executives, the main requirements for the 
+location of the new building are: it must be near amenities (shops, restaurants, etc.) and be in a 
+Toronto-named borough. The accessibility to local trendy venues is extremely important, as the property 
+market is highly competitive, especially in a popular city like Toronto. City Living Limited will be spending 
+a significant amount on building this new property, and it’s critical that they find the right location with 
+the highest profitability. Building in a foreign country (even one just across the border) requires building 
+and planning permission, legal fees, and the cost of flights from New York to Toronto for planning meetings and 
+overseeing development. This would be a very expensive project.
 
-As a Data Analyst, I will be assisting the property management company with locating the best 
-neighbourhood in which to build a new apartment building. 
-Using Foursquare API, I will investigate the neighbourhoods that include the name ‘Toronto’, 
-in order to find out which neighbourhood provides the best investment for this company’s newest building site.  
+As a Data Analyst, I have been tasked with assessing whether the neighbourhoods of Toronto-named boroughs would 
+be a good investment decision or too risky. The company has informed me that they recently built a property in the 
+trendy neighbourhood of Marble Hill, Manhattan (New York). As such, they believe that finding a similar location in Toronto 
+would be a good start in locating a new building site.
+ 
