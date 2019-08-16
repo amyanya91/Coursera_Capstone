@@ -25,4 +25,30 @@ As a Data Analyst, I have been tasked with assessing whether the neighbourhoods 
 be a good investment decision or too risky. The company has informed me that they recently built a property in the 
 trendy neighbourhood of Marble Hill, Manhattan (New York). As such, they believe that finding a similar location in Toronto 
 would be a good start in locating a new building site.
+
+II & III. Data and Methodology 
+
+Data Requirements: 
+Understanding the business problem and knowing what to look for in the datasets (I’ll need post codes, neighbourhood names, 
+borough names, using Foursquare API credentials to gather location information). 
+
+Data Collection:
+Before exploring the Toronto borough and neighbourhood data, I will first explore the neighbourhood of Marble Hill, Manhattan. 
+I will upload and read the Manhattan data (through a json file), build a dataframe using pandas and create map visualisations 
+with folium and other necessary libraries (see github notebook for further details).  I will parse and scrape a wikipedia page 
+with Toronto postal codes and neighbourhood data, in order to build a dataframe, create map visualisations, and make Foursquare 
+API calls. 
+
+Data Understanding:
+I will be building dataframes from the data sets, then cleaning the data, should there be any entry errors or null values. 
+
+Data Preparation:
+I will use a combination of SQL queries within python to analyse top venues in Marble Hill, in order to better understand 
+what to look for in the Toronto data. 
+
+I will use Foursquare API to gather venue information regarding Marble Hill, which will then be used in comparison to the 
+Toronto data. This will allow me to see which (if any) neighbourhoods in Toronto-named boroughs are the best fit for the 
+company’s new project. 
+
+
  
